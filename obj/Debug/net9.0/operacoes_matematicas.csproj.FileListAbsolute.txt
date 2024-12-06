@@ -1,0 +1,14 @@
+C:\Users\ti_02\source\repos\operacoes_matematicas\operacoes_matematicas\bin\Debug\net9.0\operacoes_matematicas.exe
+C:\Users\ti_02\source\repos\operacoes_matematicas\operacoes_matematicas\bin\Debug\net9.0\operacoes_matematicas.deps.json
+C:\Users\ti_02\source\repos\operacoes_matematicas\operacoes_matematicas\bin\Debug\net9.0\operacoes_matematicas.runtimeconfig.json
+C:\Users\ti_02\source\repos\operacoes_matematicas\operacoes_matematicas\bin\Debug\net9.0\operacoes_matematicas.dll
+C:\Users\ti_02\source\repos\operacoes_matematicas\operacoes_matematicas\bin\Debug\net9.0\operacoes_matematicas.pdb
+C:\Users\ti_02\source\repos\operacoes_matematicas\operacoes_matematicas\obj\Debug\net9.0\operacoes_matematicas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ti_02\source\repos\operacoes_matematicas\operacoes_matematicas\obj\Debug\net9.0\operacoes_matematicas.AssemblyInfoInputs.cache
+C:\Users\ti_02\source\repos\operacoes_matematicas\operacoes_matematicas\obj\Debug\net9.0\operacoes_matematicas.AssemblyInfo.cs
+C:\Users\ti_02\source\repos\operacoes_matematicas\operacoes_matematicas\obj\Debug\net9.0\operacoes_matematicas.csproj.CoreCompileInputs.cache
+C:\Users\ti_02\source\repos\operacoes_matematicas\operacoes_matematicas\obj\Debug\net9.0\operacoes_matematicas.dll
+C:\Users\ti_02\source\repos\operacoes_matematicas\operacoes_matematicas\obj\Debug\net9.0\refint\operacoes_matematicas.dll
+C:\Users\ti_02\source\repos\operacoes_matematicas\operacoes_matematicas\obj\Debug\net9.0\operacoes_matematicas.pdb
+C:\Users\ti_02\source\repos\operacoes_matematicas\operacoes_matematicas\obj\Debug\net9.0\operacoes_matematicas.genruntimeconfig.cache
+C:\Users\ti_02\source\repos\operacoes_matematicas\operacoes_matematicas\obj\Debug\net9.0\ref\operacoes_matematicas.dll
